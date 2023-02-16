@@ -3,7 +3,7 @@ session_start();
 echo '
 <div class="navbar">
 <div class="nav-logo">
-  <h3>FARMER GUIDE</h3>
+  <h3>FARMER\'S GUIDE</h3>
 </div>
   <div class="rightnav">
     <ul>
