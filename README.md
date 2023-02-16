@@ -1,5 +1,8 @@
 <h1>Farmer's Guide</h1>
 <br>
+
+<h2>NOT HOSTED THE WEBSITE YET SO MAYBE YOU WILL NOT BE ABLE TO SEE THE OUTPUT PROPERLY (ALSO BECAUSE OF SIGNUP FEATURE) BUT YOU CAN SEE THE CODE</h2>
+<h4>Signup helps to restrict use of the website without it</h4>
 <h3>-Overview</h3>
 <ul>
   <li>Made for anyone who is interested in knowing about farmers and their activities</li>
