@@ -10,6 +10,7 @@
 </head>
 
 <body>
+    <!-- ABOUT THE WEBSITE -->
     <?php include 'partial/_header.php'?>
     <div class="container">
         <div class="abpage-head">

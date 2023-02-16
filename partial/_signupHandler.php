@@ -1,4 +1,5 @@
 <?php
+// PAGE TO HANDLE SIGNUP 
     $error="false";
     if($SERVER["REQUEST"]="POST"){
         include '_dbconnect.php';

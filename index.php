@@ -18,15 +18,16 @@
 <body>
     <div class="main">
         <!-- NAVBAR -->
-        <?php include 'partial/_header.php' ?>
+        <?php include 'partial/_header.php';
+        ?>
         <!-- HOME -->
         <div class="home">
-        
+
             <div class="home-head">
                 <h1>WELCOME TO THE PLACE OF THE <span> CROP MAGICIANS</span></h1>
                 <p>Start your agriculture journey with us</p>
             </div>
-            
+
             <div class="homemain">
                 <div class="report">
                     <p>List your cultivation report to help the report be more accurate and crisp</p>
@@ -60,22 +61,27 @@
                 </div>
             </div>
         </div>
-        <div class="about" >
-            <hr>    
+        <!-- ABOUT THE PROJECT -->
+        <div class="about">
+            <hr>
             <h1>HOW DOES<span> FARMER'S GUIDE</span> HELP?</h1>
             <hr>
 
             <div class="about-container">
-            <div class="about-img">
+                <div class="about-img">
                     <img src="static/farmer2.jpg" class="farmer-img" alt="">
                 </div>
                 <div class="about-text">
                     <h2>SEE THE FARMING ACTIVITIES</h2>
                     <h1>OF OTHER INDIAN STATES</h1>
-                    <p>Understanding the farming culture in other states can help us understand which crop is popular in which region. This makes it easier to also interpret the climatic conditions and their effect on agriculture, making  more clear about the farming cutlure. We provide all necessary information so that one can understand the requirments clearly, that is, what things are necessary to grow a certain crop.<br><br> Scroll above or see the
+                    <p>Understanding the farming culture in other states can help us understand which crop is popular in
+                        which region. This makes it easier to also interpret the climatic conditions and their effect on
+                        agriculture, making more clear about the farming cutlure. We provide all necessary information
+                        so that one can understand the requirments clearly, that is, what things are necessary to grow a
+                        certain crop.<br><br> Scroll above or see the
                         navigation bar to access or report the data in your region.</p>
                 </div>
-                
+
             </div>
         </div>
         <!-- FOOTER -->

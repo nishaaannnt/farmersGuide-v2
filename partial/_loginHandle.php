@@ -1,4 +1,5 @@
 <?php
+// PAGE TO HANDLE THE LOGIN
 if($SERVER["REQUEST"]="POST"){
     include '_dbconnect.php';
     $username=$_POST['username'];
