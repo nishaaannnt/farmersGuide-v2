@@ -37,18 +37,23 @@
 <hr>
 <h3>Screenshots</h3>
 <hr>
+BEFORE LOGIN :
 <h4>Home Page</h4>
 ![Screenshot_20230222_231536](https://user-images.githubusercontent.com/100792085/220713417-a147e15d-00fe-42fa-9514-cf0b33d61cca.png)
-<h4>Home Page</h4>
+<h4>Report Page</h4>
 ![Screenshot_20230222_231559](https://user-images.githubusercontent.com/100792085/220713557-8c1be930-a4cb-4414-a524-8b4c0122a5a2.png)
-
+<h4>Info Page</h4>
 ![Screenshot_20230222_231610](https://user-images.githubusercontent.com/100792085/220713614-36a90371-0182-40c3-8211-a6f13990f5b1.png)
-
-
+<h4>About Page</h4>
 ![Screenshot_20230222_231624](https://user-images.githubusercontent.com/100792085/220713653-507fe991-2ad7-45ae-9997-af0725b55c20.png)
-
+<h4>Login Page</h4>
 ![Screenshot_20230222_231639](https://user-images.githubusercontent.com/100792085/220713678-00ae9779-0de5-4794-99fb-ef2373554b30.png)
+<h4>Signup Page</h4>
 ![Screenshot_20230222_231647](https://user-images.githubusercontent.com/100792085/220713706-23839928-7615-4731-ae3a-314346b12186.png)
+AFTER LOGIN
+<h4>Home Page</h4>
 ![Screenshot_20230222_231703](https://user-images.githubusercontent.com/100792085/220713719-99734fb4-9375-4f71-a908-1ad22869d392.png)
+<h4>Report Page</h4>
 ![Screenshot_20230222_231713](https://user-images.githubusercontent.com/100792085/220713739-cd61fe43-4419-4cc0-975a-f3b165529fc3.png)
+<h4>Info Page</h4>
 ![Screenshot_20230222_231726](https://user-images.githubusercontent.com/100792085/220713754-37403008-2d68-4989-a50b-6b027d03de01.png)
