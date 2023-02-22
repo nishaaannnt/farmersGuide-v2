@@ -39,21 +39,21 @@
 <hr>
 BEFORE LOGIN :
 <h4>Home Page</h4>
-<img src="static/screenshots/home.jpg" alt="screenshotOutput"> 
+<img src="static/screenshots/home.png" alt="screenshotOutput"> 
 <h4>Report Page</h4>
-<img src="static/screenshots/sreport.jpg" alt="screenshotOutput"> 
+<img src="static/screenshots/sreport.png" alt="screenshotOutput"> 
 <h4>Info Page</h4>
-<img src="static/screenshots/sinfo.jpg" alt="screenshotOutput"> 
+<img src="static/screenshots/sinfo.png" alt="screenshotOutput"> 
 <h4>About Page</h4>
-<img src="static/screenshots/sabout.jpg" alt="screenshotOutput"> 
+<img src="static/screenshots/sabout.png" alt="screenshotOutput"> 
 <h4>Login Page</h4>
-<img src="static/screenshots/slogin.jpg" alt="screenshotOutput"> 
+<img src="static/screenshots/slogin.png" alt="screenshotOutput"> 
 <h4>Signup Page</h4>
-<img src="static/screenshots/ssignup.jpg" alt="screenshotOutput"> 
+<img src="static/screenshots/ssignup.png" alt="screenshotOutput"> 
 AFTER LOGIN
 Home Page
-<img src="static/screenshots/lhome.jpg" alt="screenshotOutput"> 
+<img src="static/screenshots/lhome.png" alt="screenshotOutput"> 
 <h4>Report Page</h4>
-<img src="static/screenshots/lreport.jpg" alt="screenshotOutput"> 
+<img src="static/screenshots/lreport.png" alt="screenshotOutput"> 
 <h4>Info Page</h4>
-<img src="static/screenshots/linfo.jpg" alt="screenshotOutput"> 
+<img src="static/screenshots/linfo.png" alt="screenshotOutput"> 
