@@ -38,6 +38,7 @@
 <h3>Screenshots</h3>
 <hr>
 BEFORE LOGIN :
+<br>
 <h4>Home Page</h4>
 <img src="static/screenshots/home.png" alt="screenshotOutput"> 
 <h4>Report Page</h4>
@@ -50,8 +51,8 @@ BEFORE LOGIN :
 <img src="static/screenshots/slogin.png" alt="screenshotOutput"> 
 <h4>Signup Page</h4>
 <img src="static/screenshots/ssignup.png" alt="screenshotOutput"> 
-AFTER LOGIN
-Home Page
+AFTER LOGIN 
+<h4>Home Page</h4>
 <img src="static/screenshots/lhome.png" alt="screenshotOutput"> 
 <h4>Report Page</h4>
 <img src="static/screenshots/lreport.png" alt="screenshotOutput"> 
