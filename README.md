@@ -38,6 +38,7 @@
 <h3>Screenshots</h3>
 <hr>
 BEFORE LOGIN :
+<img src="static/bg.jpg">
 <h4>Home Page</h4>
 ![Screenshot_20230222_231536](https://user-images.githubusercontent.com/100792085/220713417-a147e15d-00fe-42fa-9514-cf0b33d61cca.png)
 <h4>Report Page</h4>
