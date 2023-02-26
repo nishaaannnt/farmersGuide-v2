@@ -24,7 +24,7 @@
   <li>I just inspected all the websites I visited and learned through that</li>
   <li>Few Youtube tutorials for JavaScript</li>
   <li>PHP videos on youtube</li>
-  <li>Research on internet about farmers and agricukture</li>
+  <li>Research on internet about farmers and agriculture</li>
 </ul>
 
 <h3>-What I Learned by doing this</h3>
