@@ -1,7 +1,7 @@
 <h1>Farmer's Guide</h1>
 <br>
 
-<h3>NOT HOSTED THE WEBSITE YET BUT YOU CAN SEE THE CODE AND ALSO OUTPUT (BELOW)</h3>
+<h3> YOU CAN SEE THE  OUTPUT BELOW</h3>
 <h4>Signup helps to restrict use of the website without it</h4>
 <h3>-Overview</h3>
 <ul>
